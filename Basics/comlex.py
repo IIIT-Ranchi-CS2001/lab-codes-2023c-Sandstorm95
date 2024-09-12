@@ -1,0 +1,7 @@
+a = complex(input("Enter the comlex no : "))
+b = complex(input("Enter the comlex no : "))
+print(a)
+print(b)
+print(a.real, a.imag)
+Zeq = (a*b)/(a+b)
+print(Zeq)
